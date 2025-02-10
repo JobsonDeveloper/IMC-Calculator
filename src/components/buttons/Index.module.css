@@ -1,0 +1,14 @@
+.btnOne {
+    background-color: #21df00;
+    color: #fff;
+    font-size: 1.1rem;
+    outline: none;
+    border: 2px solid transparent;
+    border-radius: 3px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.btnOne:hover {
+    background-color: #35e516;
+}

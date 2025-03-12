@@ -1,4 +1,3 @@
-### Lista de tarefas
 [Veja o site](https://imc-calculator-theta-one.vercel.app/)
 
 ### Ferramentas utiliizadas:
